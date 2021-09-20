@@ -1,0 +1,7 @@
+sample1: Nier Automata
+sample2: Avengers Infinity War
+sample3: Unknown
+sample4: One Piece
+sample5: Durarara!!
+sample6: Gekkan Shoujo Nozaki-kun
+sample7: Genshin Impact
