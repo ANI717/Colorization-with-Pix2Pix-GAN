@@ -4,13 +4,19 @@
 [Pix2Pix PyTorch Tutorial.](https://youtu.be/SuddDSqGRzg)<br/>
 
 ## Random Picks from Evaluation Dataset
-### Input<br/>
+### Input:<br/>
 <img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/results/input.png" alt="real_image" class="inline"/><br/>
 <br/>
-### Real Target<br/>
+### Target:<br/>
 <img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/results/real.png" alt="real_image" class="inline"/><br/>
 <br/>
-### Generated Output<br/>
+### Output:<br/>
 <img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/results/fake_epoch9_step59.png" alt="real_image" class="inline"/><br/>
-
-
+<br/>
+## Colorization of Real Image
+### Input:<br/>
+<img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/sample/sample2.jpg" alt="real_image" class="inline"/><br/>
+<br/>
+### Output:<br/>
+<img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/sample/output_sample2.jpg" alt="real_image" class="inline"/><br/>
+<br/>
