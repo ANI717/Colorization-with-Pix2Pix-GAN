@@ -13,10 +13,30 @@
 ### Output:<br/>
 <img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/results/fake_epoch9_step59.png" alt="real_image" class="inline"/><br/>
 <br/>
-## Colorization of Real Image
+## Colorization of a Real Image
 ### Input:<br/>
 <img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/sample/sample2.jpg" alt="real_image" class="inline"/><br/>
 <br/>
 ### Output:<br/>
 <img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/sample/output_sample2.jpg" alt="real_image" class="inline"/><br/>
 <br/>
+## Colorization of Image from Evaluation Dataset
+### Input:<br/>
+<img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/sample/sample7.jpg" alt="real_image" class="inline"/><br/>
+<br/>
+### Output:<br/>
+<img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/sample/output_sample7.jpg" alt="real_image" class="inline"/><br/>
+<br/>
+## Colorization of a Hand Drawn Image
+### Input:<br/>
+<img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/sample/sample6.jpg" alt="real_image" class="inline"/><br/>
+<br/>
+### Output:<br/>
+<img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/sample/output_sample6.jpg" alt="real_image" class="inline"/><br/>
+<br/>
+## Colorization of a Manga
+### Input:<br/>
+<img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/sample/sample3.jpg" alt="real_image" class="inline"/><br/>
+<br/>
+### Output:<br/>
+<img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/sample/output_sample3.jpg" alt="real_image" class="inline"/><br/>
