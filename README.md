@@ -13,7 +13,7 @@
 ### Output:<br/>
 <img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/results/fake_epoch9_step59.png" alt="real_image" class="inline"/><br/>
 <br/>
-## Colorization of a Real Image
+## Colorization of a Real Scene
 ### Input:<br/>
 <img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/sample/sample2.jpg" alt="real_image" class="inline"/><br/>
 <br/>
