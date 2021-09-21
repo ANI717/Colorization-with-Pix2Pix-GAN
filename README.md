@@ -34,7 +34,7 @@
 ### Output:<br/>
 <img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/sample/output_sample6.jpg" alt="real_image" class="inline"/><br/>
 <br/>
-## Colorization of a Manga
+## Colorization of a Manga Art
 ### Input:<br/>
 <img src="https://github.com/ANI717/Colorization_with_Pix2Pix/blob/main/sample/sample3.jpg" alt="real_image" class="inline"/><br/>
 <br/>
