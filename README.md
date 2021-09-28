@@ -1,4 +1,4 @@
-<h1 align="center">Colorization with Pix2Pix</h1>
+<h1 align="center">Colorization with Pix2Pix using a Custom Handmade Dataset</h1>
 
 [Training Dataset](https://www.kaggle.com/ani717/genshin-impact-gameplay-frames-dataset-for-gans): A Custom Dataset, created by parsing frames from [Genshin Impact](https://genshin.mihoyo.com/en/home) Gameplay ([Link-1](https://youtu.be/iF2qlgUJqXw) & [Link-2](https://youtu.be/xawojgTzTkE)).<br/>
 [Pix2Pix PyTorch Tutorial.](https://youtu.be/SuddDSqGRzg)<br/>
